@@ -1,0 +1,7 @@
+C:\escola\testes\testeCS\teste2\bin\Debug\teste2.exe.config
+C:\escola\testes\testeCS\teste2\bin\Debug\teste2.exe
+C:\escola\testes\testeCS\teste2\bin\Debug\teste2.pdb
+C:\escola\testes\testeCS\teste2\obj\Debug\teste2.csproj.AssemblyReference.cache
+C:\escola\testes\testeCS\teste2\obj\Debug\teste2.csproj.CoreCompileInputs.cache
+C:\escola\testes\testeCS\teste2\obj\Debug\teste2.exe
+C:\escola\testes\testeCS\teste2\obj\Debug\teste2.pdb
